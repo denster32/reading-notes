@@ -6,9 +6,9 @@ Growth mindset to me means...
 
 Three reminders to keep myself in a growth mindset:
 
-1.
-2.
-3.
+1.  
+2.  
+3.  
 
 
 
