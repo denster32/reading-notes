@@ -12,4 +12,4 @@ Three reminders to keep myself in a growth mindset:
 
 
 
-Here is a link to my github portfolio:  https://denster32.github.io/reading-notes/
+[Here is a link to my github portfolio:]  https://denster32.github.io/reading-notes/
