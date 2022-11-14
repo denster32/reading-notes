@@ -2,6 +2,8 @@
 
 ## **Hi my name is Dennis and I'm learning to code.  I have some coding experience but I am looking forward to becoming a software developer and look forward to a long, fruitful career.**
 
+Here is a link to my github portfolio: <https://denster32.github.io/reading-notes/>
+
 _Growth mindset to me means lifelong learning. We are born with innate traits but we are only limited by the roadblocks that we put up for ourselves._ 
 
 **Three reminders to keep myself in a growth mindset:**
@@ -12,4 +14,6 @@ _Growth mindset to me means lifelong learning. We are born with innate traits bu
 
 
 
-Here is a link to my github portfolio: <https://denster32.github.io/reading-notes/>
+## Things I want to know more about
+1.  
+2.  
