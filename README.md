@@ -1,14 +1,14 @@
 # My reading journal for Code Fellows
 
-Hi my name is **Dennis** and I'm learning to code.  I have some coding experience but I am looking forward to becoming a software developer and look forward to a long, fruitful career.  
+## **Hi my name is Dennis and I'm learning to code.  I have some coding experience but I am looking forward to becoming a software developer and look forward to a long, fruitful career.**
 
-Growth mindset to me means lifelong learning. We are born with innate traits but we are only limited by the roadblocks that we put up for ourselves.  
+_Growth mindset to me means lifelong learning. We are born with innate traits but we are only limited by the roadblocks that we put up for ourselves._ 
 
-Three reminders to keep myself in a growth mindset:
+**Three reminders to keep myself in a growth mindset:**
 
-1.  --When I face a challenging problem I will embrace it rather than run from it. -- 
-2.  Throughout this bootcamp I will find myself wanting to hit the snooze button, I need to remind myself that I need to prepare for the day to set myself up for success. 
-3.  I will inevitably make mistakes and will need to ask for help.  I will embrace the criticism that I receive and take it as positive feedback.  
+1.  _When I face a challenging problem I will embrace it rather than run from it._
+2.  _Throughout this bootcamp I will find myself wanting to hit the snooze button, I need to remind myself that I need to prepare for the day to set myself up for success._
+3.  _I will inevitably make mistakes and will need to ask for help.  I will embrace the criticism that I receive and take it as positive feedback._ 
 
 
 
