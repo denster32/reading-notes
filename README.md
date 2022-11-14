@@ -18,4 +18,4 @@ _Growth mindset to me means lifelong learning. We are born with innate traits bu
 1.  
 2.  
 
-[Class 1 Notes](https://denster32.github.io/reading-notes/class1)
+[Class 1 Notes](class1.md)
