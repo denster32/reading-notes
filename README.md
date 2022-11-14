@@ -13,9 +13,5 @@ _Growth mindset to me means lifelong learning. We are born with innate traits bu
 3.  _I will inevitably make mistakes and will need to ask for help.  I will embrace the criticism that I receive and take it as positive feedback._ 
 
 
-
-## Things I want to know more about
-1.  
-2.  
-
 [Class 1 Notes](class1.md)
+[Class 2 Notes](class2.md)
