@@ -12,21 +12,8 @@ _Growth mindset to me means lifelong learning. We are born with innate traits bu
 2. _Throughout this bootcamp I will find myself wanting to hit the snooze button, I need to remind myself that I need to prepare for the day to set myself up for success._
 3. _I will inevitably make mistakes and will need to ask for help.  I will embrace the criticism that I receive and take it as positive feedback._
 
-[Class 1 Notes](class1.md)
+[Code 102 Reading Notes](Code102ReadingNotes.md)
 
-[Class 2 Notes](class2.md)
-
-[Class 3 Notes](class3.md)
-
-[Class 4 Notes](class4.md)
-
-[Class 5 Notes](class5.md)
-
-[Class 6 Notes](class6.md)
-
-[Class 7 Notes](class7.md)
-
-[Class 8 Notes](class8.md)
 
 
 This is my 15 year old Husky-mix Frank.
