@@ -4,14 +4,13 @@
 
 Here is a link to my github portfolio: [My GitHub Portfolio](https://github.com/denster32)
 
-_Growth mindset to me means lifelong learning. We are born with innate traits but we are only limited by the roadblocks that we put up for ourselves._ 
+_Growth mindset to me means lifelong learning. We are born with innate traits but we are only limited by the roadblocks that we put up for ourselves._
 
 **Three reminders to keep myself in a growth mindset:**
 
-1.  _When I face a challenging problem I will embrace it rather than run from it._
-2.  _Throughout this bootcamp I will find myself wanting to hit the snooze button, I need to remind myself that I need to prepare for the day to set myself up for success._
-3.  _I will inevitably make mistakes and will need to ask for help.  I will embrace the criticism that I receive and take it as positive feedback._ 
-
+1. _When I face a challenging problem I will embrace it rather than run from it._
+2. _Throughout this bootcamp I will find myself wanting to hit the snooze button, I need to remind myself that I need to prepare for the day to set myself up for success._
+3. _I will inevitably make mistakes and will need to ask for help.  I will embrace the criticism that I receive and take it as positive feedback._
 
 [Class 1 Notes](class1.md)
 
@@ -19,4 +18,3 @@ _Growth mindset to me means lifelong learning. We are born with innate traits bu
 
 This is my 15 year old Husky-mix Frank.
 ![7E234B38-B56E-42A0-A33D-F4E3F2ABF162_1_105_c](https://user-images.githubusercontent.com/34459336/201796661-46419f07-1f92-440e-a101-678982f437c0.jpeg)
-

@@ -1,9 +1,11 @@
 # Class 2 Notes - The Coder's Computer
 
-Why this topic matters?
-- Coders will spend many hours in front of their computers.  Its important to have an ideal setup that works for you, utilzing tools that are powerful yet serve your individual needs and preferences. 
+## Why this topic matters?
 
-Summary of topics:
+- Coders will spend many hours in front of their computers.  Its important to have an ideal setup that works for you, utilzing tools that are powerful yet serve your individual needs and preferences.
+
+## Summary of topics:
+
 - Choice of text editor is important but the best one is the best one for you.
 - Code completion is a useful tool in that it can help you get code up and out quickly
 - A shorthand language called Emmet can speed up code writing
@@ -21,4 +23,4 @@ Summary of topics:
 - spaces should be used sparingly when naming
 - the terminal is case sensitive
 
- ## Things I want to know more about
+## Things I want to know more about
