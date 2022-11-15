@@ -2,7 +2,7 @@
 
 ## **Hi my name is Dennis and I'm learning to code.  I have some coding experience but I am looking forward to becoming a software developer and look forward to a long, fruitful career.**
 
-Here is a link to my github portfolio: [My GitHub Portfolio](https://denster32.github.io/reading-notes/)
+Here is a link to my github portfolio: [My GitHub Portfolio](https://github.com/denster32)
 
 _Growth mindset to me means lifelong learning. We are born with innate traits but we are only limited by the roadblocks that we put up for ourselves._ 
 
