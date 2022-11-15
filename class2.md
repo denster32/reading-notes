@@ -4,7 +4,7 @@
 
 - Coders will spend many hours in front of their computers.  Its important to have an ideal setup that works for you, utilzing tools that are powerful yet serve your individual needs and preferences.
 
-## Summary of topics:
+## Summary of topics
 
 - Choice of text editor is important but the best one is the best one for you.
 - Code completion is a useful tool in that it can help you get code up and out quickly

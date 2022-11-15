@@ -6,4 +6,4 @@
 
 ## Summary of topics
 
-- 
+-

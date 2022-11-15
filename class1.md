@@ -7,7 +7,7 @@
 ## Summary of topics
 
 - GitHub pages is an easy way to make a webpage.  It utilizes your Git data and requires little coding.  
-- There appears to be more powerful syntax that I will dig deeper into when the time comes. 
+- There appears to be more powerful syntax that I will dig deeper into when the time comes.
 - Some of the syntax seems straight forward, but spacing does matter.  
 
 ## Professional Competency Self-Assessment

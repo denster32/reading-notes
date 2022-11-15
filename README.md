@@ -16,5 +16,18 @@ _Growth mindset to me means lifelong learning. We are born with innate traits bu
 
 [Class 2 Notes](class2.md)
 
+[Class 3 Notes](class3.md)
+
+[Class 4 Notes](class4.md)
+
+[Class 5 Notes](class5.md)
+
+[Class 6 Notes](class6.md)
+
+[Class 7 Notes](class7.md)
+
+[Class 8 Notes](class8.md)
+
+
 This is my 15 year old Husky-mix Frank.
 ![7E234B38-B56E-42A0-A33D-F4E3F2ABF162_1_105_c](https://user-images.githubusercontent.com/34459336/201796661-46419f07-1f92-440e-a101-678982f437c0.jpeg)
