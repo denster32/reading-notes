@@ -20,6 +20,5 @@ Summary of topics:
 - everything is a file
 - spaces should be used sparingly when naming
 - the terminal is case sensitive
-- 
 
  ## Things I want to know more about
