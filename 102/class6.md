@@ -13,7 +13,7 @@
 - JS can run inside HTML file (embed) or be linked in the HTML code to an external JS file (include)
 - 3 ways to output -> alert, document.write, console.log
 - 2 ways to recieve input -> prompt, confirm
-- 4 ways to declare JS variable -> var, let, cont, use nothing
+- 4 ways to declare JS variable -> var (old way), let (changeable value), cont (constant), use nothing
 - unique variable names = identifiers and are case sensitive
 - = is assignment operator
 - == is equal to
@@ -21,4 +21,3 @@
 - can declare many variables in one statement separated by commas
 - cant re-declare variable if let or cont was used
 - underscore (_) is treated as a letter
-- 
