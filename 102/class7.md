@@ -17,14 +17,14 @@
 - function stops when reaches a return statement
 - functions can be used as variable values
 - variables declared within fucntion are local to fucntion
-- + is addtion
-- - is subtract
-- * is multiply
-- ** is exponentiation
-- / division
-- % modulus
-- ++ increment
-- -- decrement
+- "+" is addtion
+- "-" is subtract
+- "*" is multiply
+- "**" is exponentiation
+- "/" division
+- "%" modulus
+- "++" increment
+- "--" decrement
 - expression = valid unit of code that resolves to a value
 - 2 types: side effects and evaluate
 - 
