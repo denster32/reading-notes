@@ -2,7 +2,7 @@
 
 ## Why this topic matters?
 
--
+- Functions are the fundamental building block of javascript
 
 ## Summary of topics
 
