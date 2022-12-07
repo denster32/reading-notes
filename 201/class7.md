@@ -16,7 +16,7 @@
 - they produce tag soup -> harder to writem debug and maintain
 - not automatically responsive
 
-List and describe 3 different semantic HTML elements used in an HTML table.
+2. List and describe 3 different semantic HTML elements used in an HTML table.
 
 - table, tr, td
 
@@ -28,7 +28,8 @@ List and describe 3 different semantic HTML elements used in an HTML table.
 - when you call it it will : create a new object, bind this to the new object
 - run the code in the constructor
 - return new object
-- its better than creating a new onject, initialzing it and returning it
+- its better than creating a new object, initialzing it and returning it
+- a function that creates objects
 
 2. How does the term this differ when used in an object literal versus when used in a constructor?
 
