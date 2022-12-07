@@ -16,7 +16,7 @@
 - they produce tag soup -> harder to writem debug and maintain
 - not automatically responsive
 
-List and describe 3 different semantic HTML elements used in an HTML <table>.
+List and describe 3 different semantic HTML elements used in an HTML table.
 
 - table, tr, td
 
