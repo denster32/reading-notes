@@ -18,7 +18,7 @@
 
 List and describe 3 different semantic HTML elements used in an HTML <table>.
 
-- <table></table>. <tr></tr>, <td></td>
+- table, tr, td
 
 ## Introducing Constructors
 
@@ -32,7 +32,7 @@ List and describe 3 different semantic HTML elements used in an HTML <table>.
 
 2. How does the term this differ when used in an object literal versus when used in a constructor?
 
-- in an object literal this enables you to use the dame method def for every object you create, not that useful when when writing out OL by hand 
+- in an object literal this enables you to use the dame method def for every object you create, not that useful when when writing out OL by hand
 
 - when you call a new constructor with the new keyword this binds to the new object
 
