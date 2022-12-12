@@ -1,4 +1,4 @@
-# Class 1 Notes - Audio, Video, Images
+# Class 11 Notes - Audio, Video, Images
 
 ## Video and Audio Content
 
