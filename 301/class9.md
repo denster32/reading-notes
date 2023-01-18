@@ -1,4 +1,4 @@
-# Class 8 Notes - Functional Programming
+# Class 9 Notes - Functional Programming
 
 ## Summary of Topics
 
